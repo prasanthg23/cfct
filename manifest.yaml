@@ -11,8 +11,8 @@ resources:
     deploy_method: stack_set
     deployment_targets:
       accounts:
-        - 726387645106
-        - 850909637407
+        - Audit
+        - Bootcamp
  
     regions:
       - us-east-1
